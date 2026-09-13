@@ -1,5 +1,8 @@
 name: Bladeless fan
 products:
+  - id: jaefoofl9as5kevm
+    manufacturer: Cleverio
+    model: AF-F100
   - id: kablfan1csa
     manufacturer: Kogan
     model: KABLFAN1CSA
